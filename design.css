@@ -2,3 +2,10 @@ body
 {
     background-color: burlywood;
 }
+div
+{
+    border: 1px solid red;
+    background-color: blue;
+    text-align: center;
+
+}
